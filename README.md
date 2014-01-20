@@ -1,7 +1,6 @@
 #Design3
-=======
 
-Cours de design 3
+###Cours de design 3
 
 ######François Desjarlais
 ######Raphaêl Beaumont-Pelletier
