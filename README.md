@@ -1,6 +1,6 @@
-#Design3
+#Design 3
 
-###Cours de design 3
+###Membres et fonction
 
 ######François Desjarlais
 ######Raphaêl Beaumont-Pelletier
